@@ -13,4 +13,6 @@ And, the deploy_openvpn is the name of the function within the Fabric script tha
 
 Don't go too quickly and read the prompts. There will be a few critical prompts to answer yes to or it will not work.
 
+After it has ran you should end up with a client config file located in your user directory at ~/client-configs/files/client1.ovpn
+
 Have fun!
